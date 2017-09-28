@@ -2,10 +2,10 @@
 dependencies: []
 
 galaxy_info:
-  author: geerlingguy
+  author: devopsstore
   description: Java for Linux
-  company: "Midwestern Mac, LLC"
-  license: "license (BSD, MIT)"
+  company: "devopsstore"
+  license: "license (GNU)"
   min_ansible_version: 2.0
   platforms:
     - name: EL
